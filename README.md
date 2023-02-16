@@ -1,6 +1,7 @@
 # Login-info-Saver
 A python console app that will memorize your login information.
 This is also my first python repo btw
+To download, you will have to press on "Code" and then click on "Download ZIP"
 <br /> How to use:
 <br />1. Open VSCode
 <br />2. Open the file for this console app
