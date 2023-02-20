@@ -1,3 +1,4 @@
+print("testing")
 f = open("info.txt", "w")
 
 app = input("What is the app you want to save info for?: ")
